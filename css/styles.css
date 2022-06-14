@@ -1,0 +1,19 @@
+.nobtn{
+	position: absolute;
+	left: 15%;
+	bottom: 5%;
+}
+
+.sibtn{
+	position: absolute;
+	right: 15%;
+	bottom: 5%;
+}
+
+.carousel {
+	min-height: 530px;
+}
+
+.imgpos {
+	height: 530px;
+}
